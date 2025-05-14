@@ -1,6 +1,6 @@
 # Citadel-women-datathon-2025
  
-#Project Statement
+# Project Statement
 When Edwin Drake drilled the first well in Titusville over 160 years ago, there’s no way he could
 have anticipated the weight and influence it would hold in modern society!
 Gasoline remains one of the most heavily consumed fuels in the United States and is the primary
