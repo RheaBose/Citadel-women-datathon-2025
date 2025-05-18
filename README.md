@@ -13,3 +13,6 @@ Given that car travel will continue to dominate U.S. transportation for the fore
 understanding the behavior of gasoline prices remains economically and politically significant. With
 the wealth of available data, can we better anticipate these shifts, and more importantly,
 understand their ripple effects across the economy?
+
+# To download the libraries you need for running the code, use the command
+pip install -r requirement.txt
