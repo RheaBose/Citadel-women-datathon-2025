@@ -1,4 +1,8 @@
 # Citadel-women-datathon-2025
+Submission for the  Europe Women's Datathon 2025 organised by Citadel/Citadel Securities and Correlation One. It was awarded 3rd Place in the competition.
+
+Team members: Feliya Geikyan, Rhea Bose, TsaiChen Lo, Zejia Yang
+
  
 # Project Statement
 When Edwin Drake drilled the first well in Titusville over 160 years ago, there’s no way he could
